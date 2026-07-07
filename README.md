@@ -43,6 +43,10 @@ pip install faiss-cpu
 pip install sentence-transformers
 pip install numpy
 ```
+# Installtion procedure
+```bash
+git clone https://github.com/gayatori-san/unprof_pyai_15
+```
 
 ---
 
