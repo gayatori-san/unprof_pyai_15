@@ -1,7 +1,4 @@
-# README.md – FAISS Semantic Similarity Search with Sentence Transformers
-
 # 📚 FAISS Semantic Similarity Search
-
 ## 📌 Project Overview
 
 This project demonstrates how to build a **Semantic Document Search System** using **Sentence Transformers** and **FAISS (Facebook AI Similarity Search)**.
