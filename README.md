@@ -45,7 +45,7 @@ pip install numpy
 ```
 # Installtion procedure
 ```bash
-git clone https://github.com/gayatori-san/unprof_pyai_15
+git clone https://github.com/gayatori-san/unprof_pyai_15.git
 ```
 
 ---
